@@ -36,10 +36,11 @@ This project is a Colorful Calculator, a simple graphical calculator application
 
 ---
 ## 🖼Screenshot
-**UI of Calculator**
+### UI of Calculator
+![UI](Assets/UI.png)
 
+### Perform expression
+![Evaluation](Assets/Evaluation.png)
 
-**Perform expression**
-
-
-**Result**
+### Result
+![Result](Assets/Result.png)
